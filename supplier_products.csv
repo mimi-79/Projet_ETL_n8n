@@ -1,0 +1,26 @@
+product_sku,product_name,size,color,quantity,price,supplier_id,category
+TSH-001,T-Shirt Classic Cotton,S,Blue,150,19.99,SUP001,Apparel
+TSH-001,T-Shirt Classic Cotton,M,Blue,200,19.99,SUP001,Apparel
+TSH-001,T-Shirt Classic Cotton,L,Blue,175,19.99,SUP001,Apparel
+TSH-001,T-Shirt Classic Cotton,XL,Blue,100,19.99,SUP001,Apparel
+TSH-002,T-Shirt Premium Organic,M,Black,80,29.99,SUP001,Apparel
+TSH-002,T-Shirt Premium Organic,L,Black,120,29.99,SUP001,Apparel
+TSH-002,T-Shirt Premium Organic,XL,Black,90,29.99,SUP001,Apparel
+TSH-003,T-Shirt Sport Performance,S,Charcoal,200,24.99,SUP002,Apparel
+TSH-003,T-Shirt Sport Performance,M,Charcoal,250,24.99,SUP002,Apparel
+TSH-003,T-Shirt Sport Performance,L,Charcoal,180,24.99,SUP002,Apparel
+TSH-004,T-Shirt Vintage Wash,M,Beige,60,22.99,SUP001,Apparel
+TSH-004,T-Shirt Vintage Wash,L,Beige,75,22.99,SUP001,Apparel
+TSH-005,T-Shirt Eco Friendly,S,Green,100,27.99,SUP003,Apparel
+TSH-005,T-Shirt Eco Friendly,M,Green,150,27.99,SUP003,Apparel
+TSH-005,T-Shirt Eco Friendly,L,Green,130,27.99,SUP003,Apparel
+TSH-005,T-Shirt Eco Friendly,XL,Green,85,27.99,SUP003,Apparel
+TSH-006,T-Shirt Basic White,S,White,300,14.99,SUP001,Apparel
+TSH-006,T-Shirt Basic White,M,White,400,14.99,SUP001,Apparel
+TSH-006,T-Shirt Basic White,L,White,350,14.99,SUP001,Apparel
+TSH-007,T-Shirt Graphic Design,M,Cyan,50,24.99,SUP002,Apparel
+TSH-007,T-Shirt Graphic Design,L,Cyan,65,24.99,SUP002,Apparel
+TSH-008,T-Shirt Long Sleeve,S,Dark Brown,90,26.99,SUP001,Apparel
+TSH-008,T-Shirt Long Sleeve,M,Dark Brown,110,26.99,SUP001,Apparel
+TSH-008,T-Shirt Long Sleeve,L,Dark Brown,95,26.99,SUP001,Apparel
+TSH-008,T-Shirt Long Sleeve,XL,Dark Brown,70,26.99,SUP001,Apparel

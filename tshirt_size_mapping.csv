@@ -1,0 +1,7 @@
+supplier_size,internal_size_code,size_order,size_display_name
+S,1,1,Small
+M,2,2,Medium
+L,3,3,Large
+XL,4,4,Extra Large
+XXL,5,5,Double Extra Large
+XS,0,0,Extra Small
