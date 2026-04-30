@@ -1,0 +1,7 @@
+id_projet,nom_projet,nom_zone_referencee,categorie_projet,cout_estime_millions,date_debut
+P101,Renovation Voirie Principale,Secteur Centre,Infrastructure,2.5,2026-01-15
+P102,Construction Crèche,Noir et Blanc,Résidentiel,1.2,2026-03-01
+P103,Pont de Liaison,Secteur Nord,Infrastructure,5.0,2026-06-01
+P104,Station d'Épuration,Zone Industrielle Est,Environnement,8.0,2026-02-20
+P105,Parc Central,Cité des Jardins,Espace Vert,1.5,2026-04-10
+P106,Hall de Marché,Éco-Quartier des Lilas,Commerce,3.0,2026-05-05

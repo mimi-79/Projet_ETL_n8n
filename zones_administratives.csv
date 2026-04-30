@@ -1,0 +1,6 @@
+code_zone,nom_zone,type_zone,population_estimee,code_postal
+Z001,Secteur Centre,Urbain,15000,75001
+Z002,Secteur Nord,Périurbain,8500,75002
+Z003,Zone Industrielle Est,Industriel,200,75003
+Z004,Cité des Jardins,Résidentiel,12000,75004
+Z005,Éco-Quartier des Lilas,Mixte,5000,75005
